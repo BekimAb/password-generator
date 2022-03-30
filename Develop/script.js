@@ -1,5 +1,9 @@
 // Assignment code here
-
+var button = document.querySelector("button");
+button.addEventListener("click", function(e) {
+  // button was clicked
+});
+const x = document.getElementsByClassName("Btn");
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
