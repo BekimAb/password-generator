@@ -5,7 +5,7 @@ button.addEventListener("click", function(e) {
 });
 const x = document.getElementsByClassName("Btn");
 
-// Get references to the #generate element
+// Get references to the #generate element 
 var generateBtn = document.querySelector("#generate");
 
 var lowercase = "abcdefghijklmnopqrstuvwxyz";
